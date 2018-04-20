@@ -1,0 +1,12 @@
+E:\Ignite\IgniteC#\Ignite.NET1\Ignite.NET1\bin\x64\Debug\Ignite.NET1.exe.config
+E:\Ignite\IgniteC#\Ignite.NET1\Ignite.NET1\bin\x64\Debug\Ignite.NET1.exe
+E:\Ignite\IgniteC#\Ignite.NET1\Ignite.NET1\bin\x64\Debug\Ignite.NET1.pdb
+E:\Ignite\IgniteC#\Ignite.NET1\Ignite.NET1\bin\x64\Debug\Apache.Ignite.Core.dll
+E:\Ignite\IgniteC#\Ignite.NET1\Ignite.NET1\bin\x64\Debug\Apache.Ignite.exe
+E:\Ignite\IgniteC#\Ignite.NET1\Ignite.NET1\bin\x64\Debug\Apache.Ignite.exe.config
+E:\Ignite\IgniteC#\Ignite.NET1\Ignite.NET1\bin\x64\Debug\Apache.Ignite.Core.xml
+E:\Ignite\IgniteC#\Ignite.NET1\Ignite.NET1\obj\x64\Debug\Ignite.NET1.csprojResolveAssemblyReference.cache
+E:\Ignite\IgniteC#\Ignite.NET1\Ignite.NET1\obj\x64\Debug\Ignite.NET1.csproj.CoreCompileInputs.cache
+E:\Ignite\IgniteC#\Ignite.NET1\Ignite.NET1\obj\x64\Debug\Ignite.NET1.csproj.CopyComplete
+E:\Ignite\IgniteC#\Ignite.NET1\Ignite.NET1\obj\x64\Debug\Ignite.NET1.exe
+E:\Ignite\IgniteC#\Ignite.NET1\Ignite.NET1\obj\x64\Debug\Ignite.NET1.pdb
