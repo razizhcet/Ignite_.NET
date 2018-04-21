@@ -1,0 +1,12 @@
+E:\Ignite\IgniteC#\IgniteMultiPlatform\IgniteMultiPlatform\bin\x64\Debug\IgniteMultiPlatform.exe.config
+E:\Ignite\IgniteC#\IgniteMultiPlatform\IgniteMultiPlatform\bin\x64\Debug\IgniteMultiPlatform.exe
+E:\Ignite\IgniteC#\IgniteMultiPlatform\IgniteMultiPlatform\bin\x64\Debug\IgniteMultiPlatform.pdb
+E:\Ignite\IgniteC#\IgniteMultiPlatform\IgniteMultiPlatform\bin\x64\Debug\Apache.Ignite.Core.dll
+E:\Ignite\IgniteC#\IgniteMultiPlatform\IgniteMultiPlatform\bin\x64\Debug\Apache.Ignite.exe
+E:\Ignite\IgniteC#\IgniteMultiPlatform\IgniteMultiPlatform\bin\x64\Debug\Apache.Ignite.exe.config
+E:\Ignite\IgniteC#\IgniteMultiPlatform\IgniteMultiPlatform\bin\x64\Debug\Apache.Ignite.Core.xml
+E:\Ignite\IgniteC#\IgniteMultiPlatform\IgniteMultiPlatform\obj\x64\Debug\IgniteMultiPlatform.csprojResolveAssemblyReference.cache
+E:\Ignite\IgniteC#\IgniteMultiPlatform\IgniteMultiPlatform\obj\x64\Debug\IgniteMultiPlatform.csproj.CoreCompileInputs.cache
+E:\Ignite\IgniteC#\IgniteMultiPlatform\IgniteMultiPlatform\obj\x64\Debug\IgniteMultiPlatform.csproj.CopyComplete
+E:\Ignite\IgniteC#\IgniteMultiPlatform\IgniteMultiPlatform\obj\x64\Debug\IgniteMultiPlatform.exe
+E:\Ignite\IgniteC#\IgniteMultiPlatform\IgniteMultiPlatform\obj\x64\Debug\IgniteMultiPlatform.pdb
